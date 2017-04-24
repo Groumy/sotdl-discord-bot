@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="sqlite" />
+  <package id="ruby" />
+  <package id="ruby2.devkit" />
+  <package id="git" />
+  <package id="visualstudiocode" />
+  <package id="railsinstaller" />
+</packages>
