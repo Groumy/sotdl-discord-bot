@@ -1,5 +1,8 @@
-require "sotdl_discord_bot/version"
+require 'sotdl_discord_bot/version'
+require 'discordrb'
+require 'dicebag'
 
 module SotdlDiscordBot
-  # Your code goes here...
+  # Discord App Client Id
+  CLIENT_ID = ''
 end

@@ -10,5 +10,5 @@ require 'sotdl_discord_bot'
 # require "pry"
 # Pry.start
 
-require "irb"
+require 'irb'
 IRB.start(__FILE__)
